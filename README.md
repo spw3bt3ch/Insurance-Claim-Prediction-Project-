@@ -89,5 +89,5 @@ This project is intended **for educational purposes only** and should not be use
 ---
 
 ## 👤 Author
-**SMI**  
+**Ogunjimi Samuel Seye**  
 Student | Aspiring Data Scientist & Python Developer
